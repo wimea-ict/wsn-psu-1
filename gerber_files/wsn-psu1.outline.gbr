@@ -1,0 +1,18 @@
+G04 start of page 4 for group 6 idx 6 *
+G04 Title: (unknown), outline *
+G04 Creator: pcb 20110918 *
+G04 CreationDate: sön  3 jan 2016 17:39:44 UTC *
+G04 For: mohsen *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions: 600000 500000 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNOUTLINE*%
+%ADD41C,0.0200*%
+%ADD40C,0.0250*%
+G54D40*X1000Y499000D02*Y347000D01*
+G54D41*X282000Y499000D02*Y347000D01*
+X1000D02*X282000D01*
+Y499000D02*X1000D01*
+M02*
